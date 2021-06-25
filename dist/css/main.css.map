@@ -1,8 +1,8 @@
 {
     "version": 3,
-    "mappings": "AAWA,AAAA,IAAI,CAAA;EACD,UAAU,EAXM,OAAO;EAYvB,KAAK,EAVQ,IAAI;EAWjB,WAAW,EAPA,GAAG;CAQhB",
+    "mappings": "AAAA,2BAA2B;AAY3B,AAAA,IAAI,CAAA;EACD,UAAU,EAXM,OAAO;EAYvB,KAAK,EAVQ,IAAI;EAWjB,WAAW,EAPA,GAAG;CAQhB",
     "sources": [
-        "../../SCSS/main.scss"
+        "../../scss/main.scss"
     ],
     "names": [],
     "file": "main.css"
